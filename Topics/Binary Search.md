@@ -24,14 +24,20 @@
 3. [codeforces](https://codeforces.com/problemset/problem/371/C)
    * [solution](https://codeforces.com/contest/371/submission/162000154)
 
-4. [leetcode](https://leetcode.com/problems/koko-eating-bananas/)
+4. [codeforces](https://codeforces.com/contest/1324/problem/D)
+   * [solution](https://codeforces.com/contest/1324/submission/200625672)
+
+5. [leetcode](https://leetcode.com/problems/koko-eating-bananas/)
    * [solution](https://ideone.com/1UZ2tn)
 
-5. [leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+6. [leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
    * [solution](https://ideone.com/lqoM6k)
 
-6. [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/)
+7. [leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/)
    * [solution](https://ideone.com/VeWwT1)
+
+8. [leetcode](https://leetcode.com/problems/minimize-maximum-of-array/)
+   * [solution](https://ideone.com/G9RlAe)
 
 
 
