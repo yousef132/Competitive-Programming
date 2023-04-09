@@ -11,11 +11,15 @@
 ---
 ## codeforces
 
-1. [codeforces](https://codeforces.com/contest/1106/problem/D)  
+1. [Party](https://codeforces.com/problemset/problem/115/A)  
+   * [solution](https://codeforces.com/contest/115/submission/201418886)
+
+
+2. [Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D)  
    * [solution](https://codeforces.com/contest/1106/submission/200984527)
 
 
-2. [codeforces](https://codeforces.com/problemset/problem/1143/C)  
+3. [Queen](https://codeforces.com/problemset/problem/1143/C)  
    * [solution](https://codeforces.com/contest/1143/submission/201401280)
 
 
