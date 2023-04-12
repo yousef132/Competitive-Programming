@@ -25,4 +25,6 @@
 4. [Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B)  
    * [solution](https://codeforces.com/contest/505/submission/201767511)
 
+5. [Kefa and Park](https://codeforces.com/contest/580/problem/C)  
+   * [solution](https://codeforces.com/contest/580/submission/201783158)
 
