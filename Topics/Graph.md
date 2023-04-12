@@ -22,6 +22,7 @@
 3. [Queen](https://codeforces.com/problemset/problem/1143/C)  
    * [solution](https://codeforces.com/contest/1143/submission/201401280)
 
-
+4. [Mr. Kitayuta's Colorful Graph](https://codeforces.com/contest/505/problem/B)  
+   * [solution](https://codeforces.com/contest/505/submission/201767511)
 
 
