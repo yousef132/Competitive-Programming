@@ -34,3 +34,6 @@
 5. [Mail Stamps](https://codeforces.com/contest/29/problem/C)  
    * [solution](https://codeforces.com/contest/29/submission/202142391)
 
+6. [Cover it!](https://codeforces.com/contest/1176/problem/E)  
+   * [solution](https://codeforces.com/contest/1176/submission/202152530)
+
