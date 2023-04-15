@@ -28,3 +28,6 @@
 5. [Kefa and Park](https://codeforces.com/contest/580/problem/C)  
    * [solution](https://codeforces.com/contest/580/submission/201783158)
 
+5. [Coloring a Tree](https://codeforces.com/problemset/problem/902/B)  
+   * [solution](https://codeforces.com/contest/902/submission/202138776)
+
