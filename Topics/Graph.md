@@ -31,3 +31,6 @@
 5. [Coloring a Tree](https://codeforces.com/problemset/problem/902/B)  
    * [solution](https://codeforces.com/contest/902/submission/202138776)
 
+5. [Mail Stamps](https://codeforces.com/contest/29/problem/C)  
+   * [solution](https://codeforces.com/contest/29/submission/202142391)
+
