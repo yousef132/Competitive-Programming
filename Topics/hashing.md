@@ -21,8 +21,8 @@
 2. [codeforces](https://codeforces.com/contest/1702/problem/C)
    * [solution](https://codeforces.com/contest/1702/submission/199884826)
 
-
-
+3. [codeforces](https://codeforces.com/contest/1821/problem/C)
+   * [solution](https://codeforces.com/contest/1821/submission/203198979)
 
 
 ## Leetcode
