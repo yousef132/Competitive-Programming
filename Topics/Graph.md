@@ -43,3 +43,14 @@
 10. [Gold Rush (graph and binary search)](https://codeforces.com/contest/1829/problem/D)  
    * [solution](https://codeforces.com/contest/1829/submission/204960843)
 
+
+
+
+
+
+----
+## leetcode
+
+1. [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)  
+   * [solution](https://leetcode.com/submissions/detail/946056148/)
+
