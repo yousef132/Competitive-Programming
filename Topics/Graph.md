@@ -28,12 +28,15 @@
 5. [Kefa and Park](https://codeforces.com/contest/580/problem/C)  
    * [solution](https://codeforces.com/contest/580/submission/201783158)
 
-5. [Coloring a Tree](https://codeforces.com/problemset/problem/902/B)  
+6. [Coloring a Tree](https://codeforces.com/problemset/problem/902/B)  
    * [solution](https://codeforces.com/contest/902/submission/202138776)
 
-5. [Mail Stamps](https://codeforces.com/contest/29/problem/C)  
+7. [Mail Stamps](https://codeforces.com/contest/29/problem/C)  
    * [solution](https://codeforces.com/contest/29/submission/202142391)
 
-6. [Cover it!](https://codeforces.com/contest/1176/problem/E)  
+8. [Cover it!](https://codeforces.com/contest/1176/problem/E)  
    * [solution](https://codeforces.com/contest/1176/submission/202152530)
+
+9. [Forever Winter](https://codeforces.com/contest/1829/problem/F)  
+   * [solution](https://codeforces.com/contest/1829/submission/204944563)
 
