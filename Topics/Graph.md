@@ -40,3 +40,6 @@
 9. [Forever Winter](https://codeforces.com/contest/1829/problem/F)  
    * [solution](https://codeforces.com/contest/1829/submission/204944563)
 
+10. [Gold Rush (graph and binary search)](https://codeforces.com/contest/1829/problem/D)  
+   * [solution](https://codeforces.com/contest/1829/submission/204960843)
+
